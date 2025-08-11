@@ -29,7 +29,7 @@
 ```
 
 ##                   📬 Contact
-```diff
-- Email:         [stu.62915@gmail.com](mailto:stu.62915@gmail.com)  
-- LinkedIn:      [linkedin.com/in/luca-grosso-dev](https://linkedin.com/in/luca-grosso-dev)  
-```
+
+- **Email**:         [stu.62915@gmail.com](mailto:stu.62915@gmail.com)  
+- **LinkedIn**:      [linkedin.com/in/luca-grosso-dev](https://linkedin.com/in/luca-grosso-dev)  
+
