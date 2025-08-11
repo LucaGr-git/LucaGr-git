@@ -1,7 +1,7 @@
 ## 📄 aboutMe.txt
 
 
-<span style="font-size: 24px; font-weight: bold;">👤 About Me</span>  
+<span style="font-size: 100px; font-weight: bold;">👤 About Me</span>  
 ```diff
 - 🎓 Degree:        Bachelor of Software Development @ RMIT
 - 📍 Host:          Melbourne, Australia
