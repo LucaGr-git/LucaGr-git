@@ -1,12 +1,14 @@
 ## 📄 aboutMe.txt
 
+
+<span style="font-size: 24px; font-weight: bold;">👤 About Me</span>  
 ```diff
-#                   👤 About Me
 - 🎓 Degree:        Bachelor of Software Development @ RMIT
 - 📍 Host:          Melbourne, Australia
 - 💼 Occupation:    Open to full-time or part-time work
 
 #------------------------------------------------------------
+```
 
 #                   💻 Skills
 + 🖥️ Languages:     Python, HTML/CSS, TypeScript, C++, Java
