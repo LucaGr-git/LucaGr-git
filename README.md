@@ -1,16 +1,27 @@
-## Hi there 👋
+## aboutMe.txt
 
-<!--
-**LucaGr-git/LucaGr-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- **Degree:** Bachelor of Software Devoplment @ RMIT
+- **Host:** Melbourne, Australia.
+- **Occupation:** Open to full-time or part-time work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, HTML/CSS, TypeScript, C++, Java
+- **Frameworks:** React (Next.js), Spring, Thymeleaf 
+- **OS:** MacOS, Linux, Windows
+
+---
+
+## Interests
+- **Tech:** Database Design and Normalisation, Full-stack Development & Algorithms Analysis
+- **Want to Learn:** Cloud Computing, UI/UX Design & AI 
+- **General:** Soccer/Football, AFL & Computer Hardware 
+
+---
+
+## Contact
+- **Email:** [stu.62915@gmail.com](mailto:stu.62915@gmail.com)
+- **LinkedIn:** [linkedin.com/in/luca-grosso-060b44356/](https://linkedin.com/in/luca-grosso-060b44356/)
+
