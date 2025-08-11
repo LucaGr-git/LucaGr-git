@@ -31,5 +31,5 @@
 ##                   📬 Contact
 ```diff
 - Email:         stu.62915@gmail.com
-- LinkedIn:      linkedin.com/in/luca-grosso-060b44356
+- LinkedIn:      www.linkedin.com/in/luca-grosso-dev
 ```
