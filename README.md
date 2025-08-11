@@ -4,7 +4,7 @@
 ## About Me
 ```diff
 #------------------------------------------------------------
-- **Degree**:        Bachelor of Software Development @ RMIT
+- Degree:        Bachelor of Software Development @ RMIT
 - Host:          Melbourne, Australia
 - Occupation:    Open to full-time or part-time work
 #------------------------------------------------------------
