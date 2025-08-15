@@ -6,7 +6,7 @@
 #------------------------------------------------------------
 - Degree:        Bachelor of Software Development @ RMIT
 - Host:          Melbourne, Australia
-- Occupation:    Open to full-time or part-time work
+- Occupation:    TAC Claims SUpport Officer - Open to full-time or part-time work
 #------------------------------------------------------------
 ```
 
