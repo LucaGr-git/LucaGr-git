@@ -13,8 +13,8 @@
 ##                   💻 Skills
 ```diff
 #------------------------------------------------------------
-+ Languages:     Python, HTML/CSS, TypeScript, C++, Java
-+ Frameworks:    React (Next.js), Spring, Thymeleaf
++ Languages:     Python, HTML/CSS, TypeScript, C++, Java, HTML/CSS
++ Frameworks:    React (Next.js), Spring, Thymeleaf, Tkinter, Axios/TypeORM, Node.js
 + OS:            macOS, Linux, Windows
 #------------------------------------------------------------
 ```
