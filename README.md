@@ -4,9 +4,9 @@
 ## About Me
 ```diff
 #------------------------------------------------------------
-- Degree:        Bachelor of Software Development @ RMIT
-- Host:          Melbourne, Australia
-- Occupation:    TAC Claims Support Officer
+- Degree:                Bachelor of Software Development @ RMIT
+- Host:                  Melbourne, Australia
+- Current Occupation:    TAC Claims Support Officer
 #------------------------------------------------------------
 ```
 
